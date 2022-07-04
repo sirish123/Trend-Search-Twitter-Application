@@ -18,7 +18,7 @@ An Application built on twitter-api that gets tweets based on search results and
 #### Download the repository. Structure of the repository is shown below:
 
 ```
-   FullStack/Appointment-Booking-Website
+Trend-Search-Twitter-Application
    |-- Backend 
    |-- Frontend
 ```
